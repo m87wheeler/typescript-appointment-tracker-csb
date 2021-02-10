@@ -1,0 +1,16 @@
+/** light */
+background: #f1f2f6;
+background-highlight: #ffffff;
+contrast-text: #373d40;
+
+/** dark */
+background: #1b2034;
+background-highlight: #212940;
+contrast-text: #eff4f9;
+
+/** shared */
+confirm: #459e5b;
+warning: #fc8d03;
+danger: #d83631;
+blue: #17acc1;
+purple: #8b3e9e;
